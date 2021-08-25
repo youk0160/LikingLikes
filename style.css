@@ -66,11 +66,11 @@ a {
     align-items: center;
 }
 
-#likes {
+.likes {
     align-items: center;
 }
 
-#likes button {
+.likes button {
     background-color: #ffd866;
     padding:.3vw 1vw;
     margin-left:3vw;
